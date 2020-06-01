@@ -1,5 +1,0 @@
-FileVersion = 1
-Projects = {beef-utils = {Path = "."}}
-
-[Workspace]
-StartupProject = "beef-utils"

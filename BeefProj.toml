@@ -1,6 +1,0 @@
-FileVersion = 1
-
-[Project]
-Name = "beef-utils"
-StartupObject = "beef_utils.Program"
-DefaultNamespace = "beef_utils"
